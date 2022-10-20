@@ -1,4 +1,4 @@
-let nome = prompt('Quale è il tuo nome?');
+let nome = prompt('Qual è il tuo nome?');
 let cognome = prompt('Quanl è il tuo cognome?');
 let colorePreferito = prompt('Qual è il tuo colore preferito?');
 
